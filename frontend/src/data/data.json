@@ -1,0 +1,27 @@
+[
+  {
+    "title": "One Piece",
+    "position": 0,
+    "img_url": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/a249096c7812deb8c3c2c907173f3774.jpg"
+  },
+  {
+    "title": "Dragon Ball Super broly",
+    "position": 1,
+    "img_url": "https://m.media-amazon.com/images/M/MV5BMjhhMDU5Y2QtMzcyZS00ZGE1LTg3ZjMtMTYyOTM0OTFlYTRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+  },
+  {
+    "title": "Demon Slayer",
+    "position": 2,
+    "img_url": "https://www.dexerto.com/cdn-cgi/image/width=3840,quality=60,format=auto/https://editors.dexerto.com/wp-content/uploads/2023/06/20/demon-slayer-corps-1.jpeg"
+  },
+  {
+    "title": "Black Clover",
+    "position": 3,
+    "img_url": "https://openseauserdata.com/files/1e7a82c4485e11b8ea7bc9c76971054b.jpg"
+  },
+  {
+    "title": "Fairy Tail natsu",
+    "position": 4,
+    "img_url": "https://mrwallpaper.com/images/hd/fairy-tail-strong-natsu-2wu16drf8g23itzs.jpg"
+  }
+]
